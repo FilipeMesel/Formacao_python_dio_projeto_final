@@ -1,0 +1,16 @@
+# EditorConfig is owesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+[*]
+end_of_line = lf
+inser_final_newline = true
+
+# 4 space indentation
+[*.py]
+charset = utf-8
+indent_style = space
+indent_size = 4
+
+# Tab indentation (no size specified)
+[Makefile]
+indent_style = tab
